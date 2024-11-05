@@ -1,0 +1,17 @@
+REM Title: Open Link
+REM Description: Opens YT link in android
+REM Target:	Android open YT link
+
+DEFINE TARGET_URL https://www.youtube.com/channel/UCYzocrbgFApPAGhq7PAw9Gw
+
+DELAY 500
+GUI b
+DELAY 500
+TAB
+DELAY 500
+TAB
+DELAY 500
+ENTER
+STRING TARGET_URL
+DELAY 500
+ENTER
