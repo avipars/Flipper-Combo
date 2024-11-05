@@ -1,11 +1,9 @@
 # Flipper-Combo
-Combo Stuff for flipper
+Combo Stuff for flipper zero
 
-SubGHZ Jamming
-- Add these files to /subghz/ on your Flipper Zero (preferably in a new directory named "Jamming"), and access them using the Sub-GHz application.
+subghz_jamming
+- Add these to /subghz/ (preferably in a new folder called "Jamming"), and access them using the Sub-GHz app.
 
-IRDB
-- copy to /infrared/ folder on your SD Card
 
 
 subghz_remote
@@ -15,3 +13,16 @@ subghz_remote
 badusb
 
 - put in /badusb/ folder on your SD Card
+
+nfc
+
+- put in /nfc/ folder on your SD Card
+
+Other stuff:
+
+    Amiibo - https://github.com/Gioman101/FlipperAmiibo
+
+
+    IRDB - https://github.com/UberGuidoZ/Flipper-IRDB
+
+            - copy to /infrared/ folder on your SD Card
