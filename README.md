@@ -12,3 +12,6 @@ subghz_remote
 
 - put in /subghz/remote/ folder on your SD Card
 
+badusb
+
+- put in /badusb/ folder on your SD Card
