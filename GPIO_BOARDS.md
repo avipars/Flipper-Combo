@@ -4,6 +4,12 @@ Tested personally on Momentum firmware revision 007:
 
 * [CC1101 SubGhz 433Mhz Board](https://s.click.aliexpress.com/e/_Dd17tsN)
 
+    Pins:
+
+        Plugs into all 18 GPIO Pins and the board has the pins numbered accordingly
+
+        In practice, there are only visible traces to a subset of those
+
     Works natively in the Sub-Ghz App
 
     Can receive signals in the general sub-ghz range, but it is advised only to send signals that are 433Mhz to reduce risk of damaging antenna and/or board.
@@ -15,17 +21,19 @@ Tested personally on Momentum firmware revision 007:
     A bit top heavy, and advised to 3d print a case/enclosure for it
 
     Demo Video coming soon
-    
+
+
 * [DHT11 - Temperature and Humidity sensor](https://s.click.aliexpress.com/e/_Ddo8mjr)
     
+    Pins:
+
+        9 (3.3v) for VCC 
+
+        10 for SWC (data) 
+
+        11 for Ground
+
     Works with the UNITEMP flipper app but not the older DHT-Monitor app 
-
-    PINS:
-    9 (3.3v) for VCC 
-
-    10 for SWC (data) 
-
-    11 for Ground
 
     Doesn't fit well with a silicon case 
 
