@@ -1,0 +1,15 @@
+REM rickroll via text to speech
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell.exe -Exec Bypass
+ENTER
+DELAY 3000
+STRING Add-Type -AssemblyName System.speech; $speak = New-Object System.Speech.Synthesis.SpeechSynthesizer
+ENTER
+DELAY 500
+STRING $speak.Speak("We're no strangers to love You know the rules and so do I (Do I) A full commitment's what I'm thinking of You wouldn't get this from any other guy I just wanna tell you how I'm feeling Gotta make you understand")
+ENTER
+DELAY 3000
+STRING exit
+ENTER

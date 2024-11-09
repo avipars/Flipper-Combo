@@ -1,0 +1,33 @@
+REM ==================================
+REM iOS - devices
+REM made by **bst04**
+REM change [person] and [text]
+REM https://github.com/aleff-github/my-flipper-shits/blob/eff8dba04c28e7bda23e45ed4a485d192f447064/iOS/Execution/Text_Someone_Message_With_iPhone-by_bst04/Text_Someone_Message_With_iPhone.txt
+REM ==================================
+
+DELAY 1500
+GUI h
+DELAY 150
+GUI SPACE
+DELAY 150
+BACKSPACE
+DELAY 500
+STRING Messages
+DELAY 250
+ENTER
+DELAY 1500
+GUI n
+DELAY 250
+REM change to person name
+STRING [person]
+DELAY 500
+ENTER
+DELAY 250
+TAB
+ENTER
+DOWNARROW
+DELAY 500
+REM change text to whatever you want
+STRING [text]
+DELAY 500
+ENTER

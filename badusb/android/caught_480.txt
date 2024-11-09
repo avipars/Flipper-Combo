@@ -1,0 +1,21 @@
+REM https://github.com/desktopsetup/BadDroid/blob/main/BadDroid/Caught%20in%20480p.txt
+REM types in google when in home screen to catch someone in the "act"
+STRING https://twitter.com/IrinaKumai/status/1591430766101434369
+STRING_DELAY 900
+DELAY 250
+ENTER
+DELAY 9500
+DOWN
+DELAY 800
+DOWN
+DELAY 800
+DOWN 
+DELAY 800
+DOWN 
+DELAY 800
+DOWN 
+DELAY 800
+DOWN 
+DELAY 1225
+GUI-CTRL s
+REM types in google when in home screen to catch someone in the "act"

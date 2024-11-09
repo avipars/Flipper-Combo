@@ -1,0 +1,21 @@
+REM https://github.com/desktopsetup/BadDroid/blob/main/BadDroid/Text%20someone.txt
+REM texts someone in there messges 
+GUI s
+DELAY 750
+TAB
+TAB
+DELAY 500
+ENTER
+DELAY 1500
+STRING I just wanna tell you how I'm feeling, Gotta make you understand
+DELAY 900
+ENTER
+DELAY 600
+REM replace with actual phone contact
+STRING Rick Astley
+DELAY 350
+TAB
+TAB
+DELAY 200
+ENTER
+REM texts someone in there messges 
