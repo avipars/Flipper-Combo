@@ -2,30 +2,41 @@ These files are for educational, research, and personal experimentation only. Us
 
 ## Folders 
 
-badusb
+[badusb](https://github.com/avipars/Flipper-Combo/tree/main/badusb)
 
-- Put in /badusb/ folder on your SD Card
+- Put in the /badusb/ folder on your SD Card, and access via BadUSB app (it may be called BadKB in some firmwares)
 
-- please read and review each script before running it
+- please read, review, and edit each script before running it
 
-subghz_jamming
+    [![Demo of BadUSB](https://img.youtube.com/vi/h931fIoUd7o/0.jpg)](https://www.youtube.com/watch?v=h931fIoUd7o)
 
-- Put in /subghz/ (preferably in a new folder called "Jamming"), and access them using the Sub-GHz app.
+[subghz_pa](https://github.com/avipars/Flipper-Combo/tree/main/subghz/)
+
+- put in /subghz/pa/ and access via Sub-GHz app. 
+
+[jamming](https://github.com/avipars/Flipper-Combo/tree/main/subghz/subghz_jamming)
+
+- Put in /subghz/jamming/, also access them via the Sub-GHz app.
 
 - you are only allowed to send signals on these frequencies [Regional Civilian-Permitted Frequencies](https://docs.flipper.net/sub-ghz/frequencies)
 
-nfc
+[nfc](https://github.com/avipars/Flipper-Combo/tree/main/nfc)
 
-- Put in /nfc/ folder on your SD Card
+- Put in /nfc/ folder on your SD Card and access via the NFC reader app
 
-wav_player
+[wav_player](https://github.com/avipars/Flipper-Combo/tree/main/wav_player)
 
-- Put in /wav_player/ folder on your SD Card
+- Put in /wav_player/ folder on your SD Card and access via the WAV Player app (may be in the Media Folder)
 
-music_player
+[music_player](https://github.com/avipars/Flipper-Combo/tree/main/music_player)
 
-- Put in /apps_data/music_player/ folder on your SD Card
+- Put in /apps_data/music_player/ folder on your SD Card and access via the Music Player app (may be in the Media Folder)
 
+- Player can read several formats including fmf, txt
+
+[Scripts](https://github.com/avipars/Flipper-Combo/tree/main/Scripts)
+
+- Requires an app installed that can run Javascript code (in a limited fashion)
 
 ## Useful Links and Repositiories
 
@@ -41,6 +52,10 @@ music_player
 
     - Codes/Files relevant to the country of Israel
 
+* [Flipper Video Playlist](https://www.youtube.com/watch?v=uRn9d1LTXqQ&list=PL9DdgseuDZgKz04KSKaN8G62-f9MXQtJL)
+
+    - Fun things you can do with the flipper
+
 * [Amiibo Files](https://github.com/Gioman101/FlipperAmiibo)
 
     - Nintendo NFC toy 
@@ -49,11 +64,11 @@ music_player
 
     - copy to /infrared/ folder on your SD Card, preferably in a new subfolder called "IRDB"
 
-     has infrared remote controls for a large collection of products and brands
+    - has infrared remote controls for a large collection of products and brands. 
 
 ## Apps to get 
 
-    - Not in Momentum firmware v0.0.7:
+Not pre-installed in Momentum firmware v0.0.7:
 
 * [Radio Scanner](https://lab.flipper.net/apps/radio_scanner)
 
@@ -64,3 +79,5 @@ music_player
 * [Intervalometer (IR Remote for Cameras)](https://lab.flipper.net/apps/ir_intervalometer)
 
 * [Ocarina (Musical instrument)](https://lab.flipper.net/apps/ocarina)
+
+There are plenty of other great apps you can find via the flipper lab site or github! 

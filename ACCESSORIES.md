@@ -18,7 +18,7 @@ Tested personally:
 
     - Theoretically any landyard/strap with a loop will work 
 
-    - It is a pain if you install the band before putting on the silicon case
+    - It is a pain if you install the band before putting on the silicon case (you need to pull the band through the other side of the case)
 
 * [Carrying Case](https://s.click.aliexpress.com/e/_DeGvqGp)
 
