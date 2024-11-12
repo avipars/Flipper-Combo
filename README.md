@@ -1,6 +1,3 @@
-# Flipper-Combo
-
-
 These files are for educational, research, and personal experimentation only. Use them responsibly with your own devices. I am not liable for any unethical or harmful use.
 
 ## Folders 
