@@ -1,8 +1,9 @@
 # Flipper-Combo
 
-Combo Stuff for flipper zero
 
 These files are for educational, research, and personal experimentation only. Use them responsibly with your own devices. I am not liable for any unethical or harmful use.
+
+## Folders 
 
 badusb
 
@@ -29,38 +30,40 @@ music_player
 - Put in /apps_data/music_player/ folder on your SD Card
 
 
-Other stuff:
+## Useful Links and Repositiories
 
-    [GPIO Boards](GPIO_BOARDS.md)
+* [GPIO Boards](/GPIO_BOARDS.md)
 
-        - Links and recommendations 
+    - Links and recommendations 
 
-    [Accesories](ACCESSORIES.md)
+* [Accesories](ACCESSORIES.md)
 
-        - Links and recommendations 
+    - Links and recommendations 
 
-    [Flipper Israel Files](https://github.com/unitMeasure/flipper_il/)
+* [Flipper Israel Files](https://github.com/unitMeasure/flipper_il/)
 
-        - Codes/Files relevant to the country of Israel
+    - Codes/Files relevant to the country of Israel
 
-    [Amiibo Files](https://github.com/Gioman101/FlipperAmiibo)
+* [Amiibo Files](https://github.com/Gioman101/FlipperAmiibo)
 
-        - Nintendo NFC toy 
+    - Nintendo NFC toy 
 
-    [IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)
+* [IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)
 
-        - copy to /infrared/ folder on your SD Card, preferably in a new subfolder called "IRDB"
+    - copy to /infrared/ folder on your SD Card, preferably in a new subfolder called "IRDB"
 
-        - has infrared remote controls for a large collection of products and brands
+     has infrared remote controls for a large collection of products and brands
 
-Apps to get (not in Momentum firmware 007):
+## Apps to get 
 
-* Radio Scanner - https://lab.flipper.net/apps/radio_scanner
+    - Not in Momentum firmware v0.0.7:
 
-* Xbox Controller - https://lab.flipper.net/apps/xbox_controller
+* [Radio Scanner](https://lab.flipper.net/apps/radio_scanner)
 
-* Music to Sub-GHz Radio - https://lab.flipper.net/apps/fmf_to_sub
+* [Xbox Controller](https://lab.flipper.net/apps/xbox_controller)
 
-* Intervalometer (IR Remote for Cameras) - https://lab.flipper.net/apps/ir_intervalometer
+* [Music to Sub-GHz Radio](https://lab.flipper.net/apps/fmf_to_sub)
 
-* Ocarina (Musical instrument) - https://lab.flipper.net/apps/ocarina
+* [Intervalometer (IR Remote for Cameras)](https://lab.flipper.net/apps/ir_intervalometer)
+
+* [Ocarina (Musical instrument)](https://lab.flipper.net/apps/ocarina)
