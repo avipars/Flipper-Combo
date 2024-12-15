@@ -6,7 +6,7 @@ Tested personally on Momentum firmware revision 007:
 
     Pins:
 
-        Plugs into all 18 GPIO Pins and the board has the pins numbered accordingly
+        Plugs into all 18 GPIO Pins and the board has the pins numbered accordingly (ensure the numbers on the PCB are facing up)
 
         In practice, there are only visible traces to a subset of those (8 pins)
 
@@ -43,11 +43,49 @@ Tested personally on Momentum firmware revision 007:
     [![Demo Video of DHT11](https://img.youtube.com/vi/Jic9GVFarsc/0.jpg)](https://www.youtube.com/watch?v=Jic9GVFarsc)
 
 
-* ESP32-S3 Mini
+* [ESP32-S3 Mini](https://s.click.aliexpress.com/e/_o2EzYFD)
 
-    Bought it recently and plan on experimenting with GhostESP & Maurader
+    Also known as S3 Zero
 
-    Demo Video & more info coming soon
+    B = Boot
+
+    R = Reset
+
+    Make sure to buy the one with pre-soldered pins (M/Welded version)
+
+    Additionally, you will need 4 [Male to Female Dupont Cables](https://s.click.aliexpress.com/e/_opdRKWB)
+
+    I am experimenting with GhostESP & Maurader
+
+    Pinout:
+
+    * 3V3 - 9 (FLIPPER) -> 3V3 (ESP)
+
+    * TX - 13 (FLIPPER) -> RX (ESP)
+
+    * RX - 14 (FLIPPER) -> TX (ESP)
+
+    * GROUND - 11 (FLIPPER) -> GROUND (ESP32)
+
+    [![Video with Pinouts](https://img.youtube.com/vi/3hAXeu2nMg0/0.jpg)](https://www.youtube.com/watch?v=3hAXeu2nMg0)
+
+    GhostESP:
+
+    * Go to the [latest release](https://github.com/Spooks4576/Ghost_ESP/releases)
+
+    * Then unzip the asset file matching your board, I selected esp32s3-generic.zip
+
+    * Go to USB Connection method: https://github.com/Spooks4576/Ghost_ESP/wiki/Installation#usb-connection-method
+
+    * When installing for the S3, ensure to use:
+
+        bootloader.bin at 0x0
+
+        partition-table.bin 0x8000  
+
+        Ghost_ESP_IDF.bin 0x10000
+
+    [![Demo Video](https://img.youtube.com/vi/0_xXlQu8Fg4/0.jpg)](https://www.youtube.com/watch?v=0_xXlQu8Fg4)
 
 
 Resources:
