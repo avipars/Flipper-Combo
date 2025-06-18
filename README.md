@@ -38,6 +38,8 @@ These files are for educational, research, and personal experimentation only. Us
 
 - Requires an app installed that can run Javascript code (in a limited fashion)
 
+- Scripts are tested on Momentum and will likely NOT work on other firmwares 
+
 ## Useful Links and Repositiories
 
 * [GPIO Boards](/GPIO_BOARDS.md)
