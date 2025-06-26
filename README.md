@@ -34,6 +34,10 @@ These files are for educational, research, and personal experimentation only. Us
 
 - Player can read several formats including fmf, txt
 
+[ir](https://github.com/avipars/Flipper-Combo/tree/main/ir)
+
+- Has infrared remote controls for a large collection of products and brands. 
+
 [Scripts](https://github.com/avipars/Flipper-Combo/tree/main/Scripts)
 
 - Requires an app installed that can run Javascript code (in a limited fashion)
@@ -61,12 +65,6 @@ These files are for educational, research, and personal experimentation only. Us
 * [Amiibo Files](https://github.com/Gioman101/FlipperAmiibo)
 
     - Nintendo NFC toy 
-
-* [IRDB](https://github.com/UberGuidoZ/Flipper-IRDB)
-
-    - copy to /infrared/ folder on your SD Card, preferably in a new subfolder called "IRDB"
-
-    - has infrared remote controls for a large collection of products and brands. 
 
 ## Apps to get 
 

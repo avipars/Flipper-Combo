@@ -10,6 +10,8 @@ MicroPython IR Documentation - https://ofabel.github.io/mp-flipper/reference.htm
 
 ### Flipper Apps
 
+#### A/C
+
 These provide a better user experience for controlling the respective air conditioners compared to the generic IR file functionality.
 
 * [Mitsubishi AC Remote](https://lab.flipper.net/apps/mitsubishi_ac_remote)
@@ -23,3 +25,7 @@ These provide a better user experience for controlling the respective air condit
 * [Hitachi AC Remote](https://lab.flipper.net/apps/hitachi_ac_remote)
 
 - Haven't tested this one personally. 
+
+##### Other Apps
+
+Check out the [Flipper Apps](https://lab.flipper.net/apps/category/infrared) page for more IR related apps.
