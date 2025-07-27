@@ -1,5 +1,10 @@
 These files are for educational, research, and personal experimentation only. Use them responsibly with your own devices. I am not liable for any unethical or harmful use.
 
+Video playlist and some demos:
+
+[![Video Playlist](https://img.youtube.com/vi/0_xXlQu8Fg4/0.jpg)](https://www.youtube.com/watch?v=0_xXlQu8Fg4&list=PL9DdgseuDZgKz04KSKaN8G62-f9MXQtJL)
+
+
 ## Folders 
 
 [badusb](https://github.com/avipars/Flipper-Combo/tree/main/badusb)
@@ -16,9 +21,15 @@ These files are for educational, research, and personal experimentation only. Us
 
 [jamming](https://github.com/avipars/Flipper-Combo/tree/main/subghz/subghz_jamming)
 
-- Put in /subghz/jamming/, also access them via the Sub-GHz app.
+- Check with your local laws and regulations before using these files or the jamming app.
 
-- you are only allowed to send signals on these frequencies [Regional Civilian-Permitted Frequencies](https://docs.flipper.net/sub-ghz/frequencies)
+- You are only allowed to send signals on these frequencies [Regional Civilian-Permitted Frequencies](https://docs.flipper.net/sub-ghz/frequencies)
+
+- Put in /subghz/jamming/, also allows you to access them via the Sub-GHz app.
+
+- Alternatively or additionally, try this [Jamming app](https://github.com/RocketGod-git/flipper-zero-rf-jammer/)
+
+    * Download the .fap file from [releases page](https://github.com/RocketGod-git/flipper-zero-rf-jammer/releases) and sideload it to your flipper (put in the sub-ghz folder on your SD Card)
 
 [nfc](https://github.com/avipars/Flipper-Combo/tree/main/nfc)
 
