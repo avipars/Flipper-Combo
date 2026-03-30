@@ -1,5 +1,8 @@
 These files are for educational, research, and personal experimentation only. Use them responsibly with your own devices. I am not liable for any unethical or harmful use.
 
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avipars)
+
+
 Video playlist and some demos:
 
 [![Video Playlist](https://img.youtube.com/vi/0_xXlQu8Fg4/0.jpg)](https://www.youtube.com/watch?v=0_xXlQu8Fg4&list=PL9DdgseuDZgKz04KSKaN8G62-f9MXQtJL)
