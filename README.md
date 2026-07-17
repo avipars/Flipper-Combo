@@ -20,7 +20,7 @@ Video playlist and some demos:
 
 [subghz_pa](https://github.com/avipars/Flipper-Combo/tree/main/subghz/)
 
-- put in /subghz/pa/ and access via Sub-GHz app. 
+- Put them in /subghz/pa/ and access via Sub-GHz app. In some stores, it can activate PA speakers. 
 
 [jamming](https://github.com/avipars/Flipper-Combo/tree/main/subghz/subghz_jamming)
 
@@ -67,10 +67,6 @@ Video playlist and some demos:
 * [Accesories](ACCESSORIES.md)
 
     - Links and recommendations 
-
-* [Flipper Israel Files](https://github.com/unitMeasure/flipper_il/)
-
-    - Codes/Files relevant to the country of Israel
 
 * [Flipper Video Playlist](https://www.youtube.com/watch?v=uRn9d1LTXqQ&list=PL9DdgseuDZgKz04KSKaN8G62-f9MXQtJL)
 
