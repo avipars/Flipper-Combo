@@ -90,4 +90,4 @@ Not pre-installed in Momentum firmware v0.0.7:
 
 * [Ocarina (Musical instrument)](https://lab.flipper.net/apps/ocarina)
 
-There are plenty of other great apps you can find via the flipper lab site or github! 
+There are plenty of other great apps you can find via the [flipper lab site](http://lab.flipper.net/apps) or github! 
