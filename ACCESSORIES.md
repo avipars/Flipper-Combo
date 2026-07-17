@@ -8,21 +8,26 @@ Tested personally:
 
     - Doesn't protect/cover the 1-wire POGO pins/iButton Module
 
-    - Case comes in different colors and has a carabiner 
+    - Case comes in different colors and has a carabiner too! 
 
 * [Carrying Case](https://s.click.aliexpress.com/e/_DeGvqGp)
 
-    - Fits the flipper and has a pocket for your USB-C Cable and some accesories
+    - Fits the flipper and has a pocket for your USB-C Cable and some accesories. 
 
-    - Mine came in the mail dirty and smelled bad, but after sticking in the washing machine and air-drying it was fine
+    - Mine came in the mail dirty and smelled bad, but after sticking in the washing machine and air-drying it was fine. 
     
 * [TPU Screen Protector](https://s.click.aliexpress.com/e/_DlJD7J3)
 
-    - Only comes with a single screen protector, but buying 2 or 3 of these was cheaper than buying a set of 3 from a different seller
+    - Only comes with a single screen protector, but buying 2 or 3 of these was cheaper than buying a set of 3 from a different seller.
 
 * [Wrist Band](https://s.click.aliexpress.com/e/_DnCnnjx)
 
-    - Theoretically any landyard/strap with a loop will work 
+    - Theoretically, any landyard/strap with a loop will work. This one is a win nunchuck style band. 
 
-    - It is a pain if you install the band before putting on the silicon case (you need to pull the band through the other side of the case)
+    - It is a pain if you install the band before putting on the silicon case (you need to pull the band through the other side of the case). 
 
+## 3D printed accesories 
+
+- [POGO pin protector](https://www.printables.com/model/1402661-flipper-zero-pogo-pin-cover-slim-for-unofficial-al)
+  
+ designed for the unofficial silicon case I got 
