@@ -28,6 +28,15 @@ Tested personally:
 
 ## 3D printed accesories 
 
-- [POGO pin protector](https://www.printables.com/model/1402661-flipper-zero-pogo-pin-cover-slim-for-unofficial-al)
+* [POGO pin protector](https://www.printables.com/model/1402661-flipper-zero-pogo-pin-cover-slim-for-unofficial-al)
   
- designed for the unofficial silicon case I got 
+   - designed to fit the unofficial silicon case I got (and linked to above)
+
+* [GPIO Cover](https://www.printables.com/make/2619650)
+
+  - if you rarely use the GPIO pins for expansion boards, why not protect them!
+
+
+* [Micro SD cover](https://www.printables.com/make/2619642)
+
+  - prints quickly and barely uses any filament, only worth adding it if you rarely take the mciro sd card out. 
