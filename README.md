@@ -1,3 +1,5 @@
+
+
 These files are for educational, research, and personal experimentation only. Use them responsibly with your own devices. I am not liable for any unethical or harmful use.
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avipars)
@@ -54,6 +56,8 @@ Video playlist and some demos:
 
 [Scripts](https://github.com/avipars/Flipper-Combo/tree/main/Scripts)
 
+- Put in the /Scripts/ folder on your SD Card
+
 - Requires an app installed that can run Javascript code (in a limited fashion)
 
 - Scripts are tested on Momentum and will likely NOT work on other firmwares 
@@ -90,4 +94,4 @@ Not pre-installed in Momentum firmware v0.0.7:
 
 * [Ocarina (Musical instrument)](https://lab.flipper.net/apps/ocarina)
 
-There are plenty of other great apps you can find via the [flipper lab site](http://lab.flipper.net/apps) or github! 
+There are plenty of other great apps you can find via the [flipper lab site](http://lab.flipper.net/apps) or github!
