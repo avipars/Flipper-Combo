@@ -1,5 +1,3 @@
-
-
 These files are for educational, research, and personal experimentation only. Use them responsibly with your own devices. I am not liable for any unethical or harmful use.
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avipars)
@@ -28,7 +26,7 @@ Video playlist and some demos:
 
 - Check with your local laws and regulations before using these files or the jamming app.
 
-- You are only allowed to send signals on these frequencies [Regional Civilian-Permitted Frequencies](https://docs.flipper.net/sub-ghz/frequencies)
+- You are only allowed to send signals on these frequencies per the [Regional Civilian-Permitted Frequencies](https://docs.flipper.net/sub-ghz/frequencies) document
 
 - Put in /subghz/jamming/, also allows you to access them via the Sub-GHz app.
 
@@ -52,7 +50,7 @@ Video playlist and some demos:
 
 [ir](https://github.com/avipars/Flipper-Combo/tree/main/ir)
 
-- Has infrared remote controls for a large collection of products and brands. 
+- Page with information for infrared remote controls for a large collection of products and brands. 
 
 [Scripts](https://github.com/avipars/Flipper-Combo/tree/main/Scripts)
 
@@ -62,7 +60,7 @@ Video playlist and some demos:
 
 - Scripts are tested on Momentum and will likely NOT work on other firmwares 
 
-## Useful Links and Repositiories
+## Useful Repositiories and Recommendations
 
 * [GPIO Boards](/GPIO_BOARDS.md)
 
@@ -79,6 +77,20 @@ Video playlist and some demos:
 * [Amiibo Files](https://github.com/Gioman101/FlipperAmiibo)
 
     - Nintendo NFC toy 
+
+## Useful Websites
+
+* [Flipper Lab](https://lab.flipper.net/apps) lets you connect your flipper to download and update apps and software via chrome browser
+
+* [Flipper online application compiler](https://joelewis012.github.io/flipper-fap-actions/) lets you compile flipper apps for your firmware via github or gitea repo urls 
+
+    - No need to have any developer tools or compile locally
+
+* [Online DB for IR files](https://search.flippertools.net/)
+
+* [BadUSB Maker](https://jaylikesbunda.github.io/BadUSB-Maker/) - drag an drop items to build a BadUSB script easily
+
+* [Momentum Firmware updater](https://momentum-fw.dev/releases/) - install or update your firmware via a chromium browser
 
 ## Apps to get 
 

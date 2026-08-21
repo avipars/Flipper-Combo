@@ -1,6 +1,7 @@
 Some links on this site are affiliate links. If you make a purchase through these, I earn a small commission at no extra cost to you.
 
-Tested personally on Momentum firmware revision 007: 
+Tested personally on Momentum firmware revision 007 through 011: 
+
 
 * [CC1101 SubGhz 433Mhz Board](https://s.click.aliexpress.com/e/_Dd17tsN)
 
@@ -35,13 +36,13 @@ Tested personally on Momentum firmware revision 007:
 
     Works with the UNITEMP flipper app (it will ask you which module are you using and then what pin is relevant) but not the older DHT-Monitor app 
 
-    Doesn't fit well with a silicon case, you can remove the case or get 3 jumper (dupont) wires and connect via them
+    Doesn't fit well with a silicon case, you can remove the case or get [3 jumper (dupont) wires](https://s.click.aliexpress.com/e/_opdRKWB) and connect via them
 
-    You are better off getting a more accurate sensor (such as BMP280 or BME280), make sure it’s supported by the [UNITEMP repo](https://github.com/quen0n/unitemp-flipperzero) (there is an image with a table of supported sensors)
-
+    You are better off getting a more accurate sensor (such as BMP280 or BME280), make sure it's supported by the [UNITEMP repo](https://github.com/quen0n/unitemp-flipperzero) (there is an image with a table of supported sensors)
 
     [![Demo Video of DHT11](https://img.youtube.com/vi/Jic9GVFarsc/0.jpg)](https://www.youtube.com/watch?v=Jic9GVFarsc)
 
+    - If a DHT22 model is available, they tend to be more accurate at reporting infotmation
 
 * [ESP32-S3 Mini](https://s.click.aliexpress.com/e/_o2EzYFD)
 
